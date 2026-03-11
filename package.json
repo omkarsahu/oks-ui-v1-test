@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.18",
-    "oks-ui": "git+https://x-access-token:${GITHUB_TOKEN}@github.com/OKS-ORG/fork-oks-ui-v1.git",
+    "oks-ui": "git+https://github.com/OKS-ORG/fork-oks-ui-v1.git",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "react-icons": "^5.5.0",
